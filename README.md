@@ -1,2 +1,2 @@
 # Longterm
-Online shopping platform
+Online learning platform
