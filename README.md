@@ -1,0 +1,2 @@
+# Longterm
+Online shopping platform
